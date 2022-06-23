@@ -1,4 +1,10 @@
-<h2>Me chamo <b>André Diniz de Oliveira</b><br> tenho 21 anos e atualmente estudo no IFPR o curso de<br> Analise e Desenvolvimento de Sistemas e <br> atuo como web developer </h2>
+<h2>I'm <b>André Diniz de Oliveira👨🏽‍💻 </b><br>
+ <br> I'm 21 years old 👨🏽‍💻;<br><br>
+ Currently studying systems analysis and development currently at IFPR 👨🏽‍🎓;<br><br>
+ Web developer Junior 💻 ;<br><br>
+ Front end with Elementor, HTML, CSS, Wordpress and more!✅. 
+ 
+</h2>
 
 <h3><strong>Linguagens conhecidas</strong></h3>
 
