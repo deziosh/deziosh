@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" style="display-flex;" style="padding: 20px">
-  <a href="https://github.com/Driinho">
+  <a href="https://github.com/Deziosh">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=Deziosh&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deziosh&layout=compact&langs_count=7&theme=dark"/>
 </div>
