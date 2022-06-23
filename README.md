@@ -13,7 +13,7 @@
   <img align="center" alt="andre-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="andre-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt ="andre-c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> 
-  <img align="center" alt="andre-java" height="50" width="60" margin="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" >
+  <img align="center" alt="andre-java" height="50" width="60" margin src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" >
 </div>
 
 <div align="center" style="display-flex;" style="padding: 20px">
