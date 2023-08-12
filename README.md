@@ -1,5 +1,5 @@
 <h2>I'm <b>André Diniz de Oliveira👨🏽‍💻 </b><br>
- <br> I'm 21 years old 👨🏽‍💻;<br><br>
+ <br> I'm 23 years old 👨🏽‍💻;<br><br>
  Currently studying systems analysis and development currently at IFPR 👨🏽‍🎓;<br><br>
  Web developer Junior 💻 ;<br><br>
  Front end with Elementor, HTML, CSS, Wordpress and more!✅. 
